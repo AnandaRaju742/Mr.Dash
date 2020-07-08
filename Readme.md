@@ -1,10 +1,10 @@
 # Mr.Dash
 ## Table of contents
-* [General Info](#general-Info)
+* [General Info](#general-info)
 * [Existing System](#existing-system)
 * [Proposed System](#proposed-system)
-* [Screenshots of the ChatBot in Google Assistant](#Screenshots-of-the-ChatBot-in-Google-Assistant)
-* [How to use?](#How-to-use?)
+* [Screenshots of the ChatBot in Google Assistant](#screenshots-of-the-chatBot-in-google-assistant)
+* [How to use?](#how-to-use?)
 
 
 ## General Info
