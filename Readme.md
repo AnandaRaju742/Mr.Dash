@@ -4,7 +4,7 @@
 * [Existing System](#existing-system)
 * [Proposed System](#proposed-system)
 * [Screenshots of the ChatBot in Google Assistant](#screenshots-of-the-chatBot-in-google-assistant)
-* [How to use?](#how-to-use-?)
+* [Setup](#setup)
 
 
 ## General Info
@@ -78,7 +78,7 @@ To answer every one of these questions, we have created a Chatbot with the help 
 </div>
 <p>&nbsp;</p>
 
-## How to use?
+## Setup
 1. Download the zip file [Mr.Dash.zip](https://github.com/AnandaRaju742/Mr.Dash/blob/master/Mr.Dash.zip) from the repository.
 2. Open [DialogFlow](https://dialogflow.cloud.google.com/#/login) in your browser.
 <div align="center">
